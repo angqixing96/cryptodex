@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// smart contract comes bundled with Truffle, manages migration to network
 pragma solidity >=0.4.22 <0.9.0;
 
 contract Migrations {
