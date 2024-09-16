@@ -7,7 +7,7 @@ Created dApp with Web Design interface for users to interact
 
 
 ## Key Features:
-- Exchange *contractual* terms
+- Exchange **contractual** terms
 
 ## Summary of Insights
 
