@@ -1,2 +1,2 @@
 # Cryptodex
-P2P exchange for trade and smart contracts
+Created dApp with Web Design interface for users to interact
