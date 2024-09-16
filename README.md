@@ -1,8 +1,8 @@
 # CryptoDEX, the Marketplace for Trade (Services, Ideas and Products)
 Online Marketplace for contractual services, connecting freelancers and employers
 
-[cryptodex_UI1.pdf](https://github.com/user-attachments/files/17021187/cryptodex_UI1.pdf)
 
+![githubspecial](https://github.com/user-attachments/assets/6f4f1aeb-86d3-4736-9adb-b9c32403d793)
 
 
 
