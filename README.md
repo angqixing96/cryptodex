@@ -1,5 +1,5 @@
 # CryptoDEX, the Marketplace for Trade (Services, Ideas and Products)
-Online Marketplace for contractual services, connecting freelancers and employers.
+Online Marketplace for contractual services, connecting freelancers and employers without the middleman.
 
 
 ### Sample Smart Contract Agreement, validating Mortgage Transactions
@@ -11,21 +11,20 @@ Online Marketplace for contractual services, connecting freelancers and employer
 ## dApp Key Features:
 - **Objective:** Proof of Funds and subsequent release of Credit Facility
 - **Contract Terms:** Terms & Conditions of Mortgage Agreement from Time Period, Borrowed Amount, and Interest per Annum
-- **User Interface:** CryptoDEX dApp allows users to draft and sign contracts without middleman
-
+- **Automation Execution:** CryptoDEX dApp programmed to automatically initiate transfer of loan amount to seller, once borrower's funds are received
 
 ## Summary of Insights
 
-### Logic:
-- At the start of the pandemic, Enterprise plans had a significant spike and record high at $226K bookings in one book. This spike then signfiicantly decreased and slowed in both summer of 2020 and summer of 2021
-- Business plans have completed dropped off at the start of 2021 - investigate whetehr there is an issue wirtht he product or a new competitor for this market
-
 ### Problems Faced:
-- Yearly plans make up over 90% of bookings, but have enabled a singiicant drop-off towards the end of 2021 that was not seen in monthly plans.
+- Mortgage industry has large overhead cost due to expenses spent on hiring third parties such as lawyers and brokers. It is also a time-consuming process as intermediaries and constant back and forth between parties lead to numerous months of waiting before mortgage approvals
 
 ### Solution Provided by CryptoDEX:
-- During the peak-COVID months in early 2020, North America make up almost two thirds of weekly bookings, and most fo the spiek in enterprise was contained to this region
+- Smart contracts ensure mortgagees and mortgagor agree on clear terms and conditions, such as proof-of-funds and payment planning. Using ethereum blockchain technology, CryptoDEX dApp validate mortgage transactions without relying on lawyers or other third parties
 
+### Logic:
+- **Immutable:** Once Created, Smart Contracts in CryptoDEX can never be changed again, ensuring integrity and relaibility of information stored inside
+
+- **Distributed:** Relying participants on Ethereum Network instead of centralised authority, transactions in Smart Contracts will be validated by everyone, fradulous transactions are prevented
 
 ## Recommendations & Further Applications:
 - DeFi: DEX
