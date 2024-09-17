@@ -27,9 +27,6 @@ Online Marketplace for contractual services, connecting freelancers and employer
 - **Distributed:** Relying on Ethereum Netowkr of participants instead of acentralised authority, transactions in Smart Contracts will be validated by everyone, fradulous transactions are prevented
 
 ## Recommendations & Further Applications:
-- DeFi: DEX
-- IoT:
-- NFTs:
-- Investigate why Enterrepsie plans exhibit a steep dip in summer months and expand the analysis to include more years toe xamine whterh the trend is COVID-related or donsistnet across time. Is there a product feature we cna impelemnt to combat this dip?
-- Yearly plans have an outsized-impact on bookings, so consider adding trials or promotions to improve the dip in yearly plans
-
+- DeFi: Investigate smart contract application into DEXs (decentralised exchanges) by automating trustless financial transactions on blockchain networks without central authority intervention
+- IoT: Are IoT sensors able to integrate with smart contracts? If possible, a shipment can trigger payments automatically upon reaching checkpoints, providing transparency and efficiency in logistics
+- NFTs: NFTs (Non-Fungible Tokens) are unique and irreplaceable, so consider using smart contracts on NFTs when transferring token to new owners during the sale
