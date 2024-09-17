@@ -24,7 +24,7 @@ Online Marketplace for contractual services, connecting freelancers and employer
 ### Logic:
 - **Immutable:** Once Created, Smart Contracts in CryptoDEX can never be changed again, ensuring integrity and relaibility of information stored inside
 
-- **Distributed:** Relying participants on Ethereum Network instead of centralised authority, transactions in Smart Contracts will be validated by everyone, fradulous transactions are prevented
+- **Distributed:** Relying on Ethereum Netowkr of participants instead of acentralised authority, transactions in Smart Contracts will be validated by everyone, fradulous transactions are prevented
 
 ## Recommendations & Further Applications:
 - DeFi: DEX
