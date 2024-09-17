@@ -3,7 +3,8 @@ Online Marketplace for contractual services, connecting freelancers and employer
 
 
 ### Sample Smart Contract Agreement, validating Mortgage Transactions
-![githubspecial](https://github.com/user-attachments/assets/6f4f1aeb-86d3-4736-9adb-b9c32403d793)
+![cryptodex_UI1](https://github.com/user-attachments/assets/5b44ae18-2d2a-440e-b3bb-35b55979f9c3)
+
 
 
 
